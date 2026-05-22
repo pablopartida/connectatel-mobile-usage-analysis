@@ -1,5 +1,7 @@
 # 📱 ConnectaTel Mobile Usage & Customer Segmentation Analysis
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](TU_LINK_COLAB_AQUI)
+
 This project analyzes customer mobile usage behavior for **ConnectaTel**, a telecommunications company operating in **Mexico and Colombia**.
 
 The objective was to understand how customers actually use mobile services (calls and messages), identify usage patterns, detect atypical behavior, and explore how different customer segments may require differentiated commercial strategies.
@@ -101,6 +103,31 @@ Customers were segmented based on:
 - plan subscription
 
 This segmentation helped identify differentiated user profiles and commercial opportunities.
+
+---
+## 📊 Analysis Preview
+
+### Call Usage Distribution
+
+Distribution of customer call duration used to understand mobile usage behavior and detect skewed consumption patterns.
+
+![Call Distribution](images/call-duration-distribution.png)
+
+---
+
+### Outlier Detection
+
+Boxplot analysis used to identify atypical mobile usage behavior and distinguish potential data issues from high-value users.
+
+![Outlier Detection](images/usage-outliers-boxplot.png)
+
+---
+
+### Customer Segmentation Analysis
+
+Segmentation analysis showing behavioral differences between customer groups based on mobile consumption patterns.
+
+![Customer Segmentation](images/customer-segmentation-analysis.png)
 
 ---
 
