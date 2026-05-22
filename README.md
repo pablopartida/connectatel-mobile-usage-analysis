@@ -1,6 +1,6 @@
 # 📱 ConnectaTel Mobile Usage & Customer Segmentation Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](TU_LINK_COLAB_AQUI)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablopartida/connectatel-mobile-usage-analysis/blob/main/notebooks/connectatel-analysis.ipynb.ipynb)
 
 This project analyzes customer mobile usage behavior for **ConnectaTel**, a telecommunications company operating in **Mexico and Colombia**.
 
